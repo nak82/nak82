@@ -1,19 +1,20 @@
-Hello!
+# Hello, I'm Andrii Kyrychenko! 👋
 
-Sorry.
-This page is in progress.
+## About Me
 
-<!--
-**nak82/nak82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer who loves building useful and interesting things. My main areas of interest include Python programming and SQL. I also have experience working as a system administrator.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Python with GoGrammar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 🖥️ Programming: Python, SQL
+- 🛢️ Databases: MySQL, PostgreSQL
+- 🌐 Web Development: HTML/CSS, JavaScript
+
+## Contact Me
+
+- Email: nak82nak82@gmail.com
+
+Feel free to reach out to me if you have any questions or collaboration opportunities! 😊
+
